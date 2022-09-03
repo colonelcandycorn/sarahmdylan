@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sarahmdylan
-- 🌱 I’m currently learning HTML, CSS, and Javascript
+- 🌱 I’m currently learning C++ and C
 
 <!---
 sarahmdylan/sarahmdylan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
